@@ -23,7 +23,7 @@ yes | pkg install libjansson nano git
 
 ## [ Clone Repo]
 ```
-git clone https://github.com/Inulekik/1
+git clone https://github.com/inulekik/1
 cd ccminer
 chmod +x ccminer start.sh
 ```
