@@ -31,10 +31,8 @@ yes | pkg install libjansson nano git
 
 ## [ Clone Repo]
 ```
-mkdir ccminer && cd ccminer
-wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/ccminer
-wget https://raw.githubusercontent.com/Inulekik/mainul/main/config.json
-wget wget https://raw.githubusercontent.com/Darktron/pre-compiled/generic/start.sh
+git clone https://github.com/inulekik/1
+cd ccminer
 chmod +x ccminer start.sh
 ```
 
