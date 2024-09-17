@@ -33,7 +33,7 @@ yes | pkg install libjansson nano git
 <br>
 ```sh
 
-git clone https://github.com/inulekik/1
+git clone https://github.com/zikyu7/ccminer
 cd ccminer
 chmod +x ccminer start.sh
 
